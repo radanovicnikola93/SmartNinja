@@ -40,6 +40,10 @@ header .head-nav-r a {
   color: #337ab7;
 }
 
+main .main-nav-r i {
+  padding-right: 10px;
+}
+
 main {
   width: 100%;
   height: 750px;
